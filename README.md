@@ -22,15 +22,15 @@ _Add your deployed app link here after deployment._
 
 ### Home Page
 
-![Home Page](screenshots/01-home-page.png)
+![Home Page](screenshots/home.png)
 
 ### Video Loaded
 
-![Video Loaded](screenshots/02-video-loaded.png)
+![Video Loaded](screenshots/video.png)
 
 ### Chat Conversation
 
-![Chat Conversation](screenshots/03-chat-conversation.png)
+![Chat Conversation](screenshots/chat.png)
 
 ## Table of Contents
 
@@ -521,9 +521,9 @@ youtube-chatbot/
 ├── README.md
 │
 ├── screenshots/
-│   ├── 01-home-page.png
-│   ├── 02-video-loaded.png
-│   └── 03-chat-conversation.png
+│   ├── home.png
+│   ├── video.png
+│   └── chat.png
 │
 └── venv/
 ```
